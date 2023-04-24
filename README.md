@@ -1,4 +1,4 @@
-# COMPUTER-ARCHITECTURE_ASSIGNMENT
+# COMPUTER-ARCHITECTURE_ASSIGNMENT_TIC TAC TOE(5x5 table size)
 
 This file needs to run on MIPS Assembler and Runtime Simulator (MARS)
 
